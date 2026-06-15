@@ -85,6 +85,7 @@ This is often done with a **store**.
 ### Store
 A store is a persistent place to save data across sessions.
 
+
 You can use it to keep:
 - user preferences
 - facts about the user
